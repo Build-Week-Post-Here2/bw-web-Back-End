@@ -1,6 +1,6 @@
 const router = require("express").Router();
 
-const Posts = require("../posts/posts-model");
+const Posts = require("./posts-model");
 
 //for endpoints beginning with /api/posts
 
